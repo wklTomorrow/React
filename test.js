@@ -2,6 +2,7 @@ import React from 'react';
 // import './index.css';
 
 function Nickname(props) {
+    
     return <h1 class="myclass">网站名称</h1>;
 }
 
